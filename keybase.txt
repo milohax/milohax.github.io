@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sinewalker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://milohax.net
+  * I am sinewalker (https://keybase.io/sinewalker) on keybase.
+  * I have a public key ASDB62XiAy7Vr93fHoECjMarXtOpRVpTUqi34IaC6gjKLQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b417526826d92ce3b9a427c018b2b0414dd77b6ff484173b00272500f9b0a4a20a",
+      "host": "keybase.io",
+      "kid": "0120c1eb65e2032ed5afdddf1e81028cc6ab5ed3a9455a5352a8b7e08682ea08ca2d0a",
+      "uid": "bc37337f60fa46022d0a83d19b19c100",
+      "username": "sinewalker"
+    },
+    "merkle_root": {
+      "ctime": 1564659106,
+      "hash": "e639fc95b9c9c8a6a2898ecafd15167edc19b557642d58b5072813d7dd795b5163b0f4e7bdbb572d9187e2f2fbe0fdb590dc58f2868682f393c65de557295175",
+      "hash_meta": "9652d83d4bb7f76fd406d0e51d13ad91c6a384a2cdcfa562a87b174b5fddd1c1",
+      "seqno": 5906578
+    },
+    "service": {
+      "entropy": "XrhpIjraiz1vUbI91TnKXk+c",
+      "hostname": "milohax.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564659129,
+  "expire_in": 504576000,
+  "prev": "49854fd18d07676cc555f42b171b7a5e9e86c69c25c222b199796e162c004222",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwetl4gMu1a/d3x6BAozGq17TqUVaU1Kot+CGguoIyi0Kp3BheWxvYWTESpcCLsQgSYVP0Y0HZ2zFVfQrFxt6Xp6GxpwlwiKxmXluFiwAQiLEIDDIGi6Em5s4v8/etvL3EyiDHLwNBvDEg2Gg+iWhELmVAgHCo3NpZ8RASITjwnHccruyyx9EKcZdPgRtTc46d9SIjFedbw3swAM09qQCW8NlWnr5aQ4HY7yYFVXGYEN3ewLRGjqXKG29BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJxPTaZNjgb60zckOzM8a6mMoXFNuydRj/OCRgmz9BRlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sinewalker
+
+==================================================================
