@@ -6,7 +6,7 @@ I hereby claim:
 
   * I am an admin of https://milohax.net
   * I am sinewalker (https://keybase.io/sinewalker) on keybase.
-  * I have a public key ASDB62XiAy7Vr93fHoECjMarXtOpRVpTUqi34IaC6gjKLQo
+  * I have a public key with fingerprint 8400 93B4 16FE A604 8473  A2F6 3CCA 2E6E BCBE 8795
 
 To do so, I am signing this object:
 
@@ -14,39 +14,51 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101b417526826d92ce3b9a427c018b2b0414dd77b6ff484173b00272500f9b0a4a20a",
+      "fingerprint": "840093b416fea6048473a2f63cca2e6ebcbe8795",
       "host": "keybase.io",
-      "kid": "0120c1eb65e2032ed5afdddf1e81028cc6ab5ed3a9455a5352a8b7e08682ea08ca2d0a",
+      "key_id": "3cca2e6ebcbe8795",
+      "kid": "0101b417526826d92ce3b9a427c018b2b0414dd77b6ff484173b00272500f9b0a4a20a",
       "uid": "bc37337f60fa46022d0a83d19b19c100",
       "username": "sinewalker"
     },
-    "merkle_root": {
-      "ctime": 1564659106,
-      "hash": "e639fc95b9c9c8a6a2898ecafd15167edc19b557642d58b5072813d7dd795b5163b0f4e7bdbb572d9187e2f2fbe0fdb590dc58f2868682f393c65de557295175",
-      "hash_meta": "9652d83d4bb7f76fd406d0e51d13ad91c6a384a2cdcfa562a87b174b5fddd1c1",
-      "seqno": 5906578
-    },
     "service": {
-      "entropy": "XrhpIjraiz1vUbI91TnKXk+c",
       "hostname": "milohax.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "4.2.0"
-  },
-  "ctime": 1564659129,
-  "expire_in": 504576000,
-  "prev": "49854fd18d07676cc555f42b171b7a5e9e86c69c25c222b199796e162c004222",
-  "seqno": 46,
+  "ctime": 1564660536,
+  "expire_in": 157680000,
+  "prev": "83d0cb2ad8418ea8cd6b14339ec3455b9b9a952426a878328eae1a151256079e",
+  "seqno": 50,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwetl4gMu1a/d3x6BAozGq17TqUVaU1Kot+CGguoIyi0Kp3BheWxvYWTESpcCLsQgSYVP0Y0HZ2zFVfQrFxt6Xp6GxpwlwiKxmXluFiwAQiLEIDDIGi6Em5s4v8/etvL3EyiDHLwNBvDEg2Gg+iWhELmVAgHCo3NpZ8RASITjwnHccruyyx9EKcZdPgRtTc46d9SIjFedbw3swAM09qQCW8NlWnr5aQ4HY7yYFVXGYEN3ewLRGjqXKG29BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJxPTaZNjgb60zckOzM8a6mMoXFNuydRj/OCRgmz9BRlo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIrAnicrZJbSBRRGMd3y4q2MoXCNghikC1yszNnZs7MrHZBeggylILIsLZzZs7o
+4Dqzzo7rZVui20vZ5cEoIQMDCUSNpCTIKK2olAi6aBcEMQXxIYmoHqLLmaXeeuy8
+HM53fv//+b4/5+Gy+b6Af2rX+tb+5eF8/8hgW73vQMlLJcURW2/iIimuhmY2GtNp
+wo3WmDoX4QAPeCLysgSRApGuQo0KRMUilDXAKwQSIPKirssyQYYhKowUCABQhhIA
+hkoAFjEEmAtzhmlVUSfumJbLbBURAFVgxsigGAEmlAUMDSRoGoYUUaIRqsiqxITV
+dsJTsOYITtBC02Y1dohm2vsH/5/7rs/YEU2QBUE2EDCwiACEOsCKoPMq4VWNB8AD
+E9SxcC1ldMK0aAOO1VCHS4c5Vk+aGvWi9Wb5w9SaMbsaNxZa1GXiuGO7tmbH2EW1
+68YTEU/oNsU9soGS6B+PKDEtnQXJFEnqJEzb4iI8IzXX9Ex5CYkIAUlAYY42xk2H
+Rk2PkGSkALa8d2jSi1/QgUYg1tngCsWKpiPCi4KgUk0QJYmoLCpVgiJEWJEVATKG
+8piXeCghIKuU86aqs2wuIjFTF1dlhq6ysFvvUC49dL8yy+cP+BYumOf9MF9gcc7f
+f9edt+jX9t1FbT1z5+GdnROlsb5o8tDCA2dH7wyMhAKdSVQSzH67JjU8umICtUw9
+StzuGWwMbhjfDyc/H63pGJH0+U/rOpov5UyXHWlddHz26/qZE6Nn0jen782e11vy
+infM9r/fePL1p+ZjgRYu9WLo1pOqpZvLDj//WZF+U76twv9hbDhr3Wo08dJ3dqb0
+Rvm3fP+vj1tnjk8uCQ0aXZ13r46XDfVdun1l08FTBT/29j0PnXYrv3/Jdop/hN6W
+Fmy58MrdF+iaDIL0cK//Yu6x8qLQs+C1zp/numLhlL+2e2zV2rnFnWVWrBe37uDb
+uztiI9dzH4/t6W6/NzD+7vNWfOXByssd8Dc8yEFQ
+=GPy9
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
