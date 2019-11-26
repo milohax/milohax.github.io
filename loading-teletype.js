@@ -57,23 +57,23 @@ $(window).load(function(){
     $('#wrapper').click(function(){speedup = 1;});
 
     function show(i) {
-	if (i == text.length) {
-	    setTimeout(function(){
+      if (i == text.length) {
+          setTimeout(function(){
             window.location.href = "https://sinewalker.keybase.pub/net/milohax/";
-        }, 4242);
-	    return;
-	}
+          }, 3333);
+      return;
+    }
 
-	var s = text[i][0];
-	var delay = text[i][1];
+    var s = text[i][0];
+    var delay = text[i][1];
 
-	$t.show();
-	$c.before(s);
-	$w.scrollTop($w[0].scrollHeight);
-	
-	setTimeout(function(){
-	    show(i+1);
-	}, Math.round((delay * (Math.random() * 0.5 + 0.75)) / speedup));
+    $t.show();
+    $c.before(s);
+    $w.scrollTop($w[0].scrollHeight);
+
+    setTimeout(function(){
+            show(i+1);
+        }, Math.round((delay * (Math.random() * 0.5 + 0.75)) / speedup));
     }
 
     $w.addClass('loaded');
