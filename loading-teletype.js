@@ -5,13 +5,28 @@
 var _text;
 
 var TEXT = [
-    [ '*Loading Mike\'s wiki\n' ],
-    [ '*Please wait......']
+    [ '* login as: guest\n', 45],
+    [ ' ***************************************\n', 45 ],
+    [ ' ***                                 ***\n', 45 ],
+    [ ' ***    --ooOO MILOHAX.NET OOoo--    ***\n', 45 ],
+    [ ' ***                                 ***\n', 45 ],
+    [ ' *** Personal memex of Mike Lockhart ***\n', 45 ],
+    [ ' ***                                 ***\n', 45 ],
+    [ ' *** Points to note:                 ***\n', 45 ],
+    [ ' ***  - tiddlywiki hosted at Keybase ***\n', 45 ],
+    [ ' ***  - new nodes update regularly   ***\n', 45 ],
+    [ ' ***  - save for local offline copy  ***\n', 45 ],
+    [ ' ***                                 ***\n', 45 ],
+    [ ' ***************************************\n', 45 ],
+    [ '*\n' ],
+    [ '*\n' ],
+    [ '*Loading milohax.net wiki\n' ],
+    [ '*Please wait......' ]
 ];
 
 var text = [];
 var speedup = 2;
-var echo_delay = 60;
+var echo_delay = 20;
 
 function init(_text)
 {
@@ -43,7 +58,9 @@ $(window).load(function(){
 
     function show(i) {
 	if (i == text.length) {
-	    window.location.href = "https://sinewalker.keybase.pub/net/milohax/";
+	    setTimeout(function(){
+            window.location.href = "https://sinewalker.keybase.pub/net/milohax/";
+        }, 4242);
 	    return;
 	}
 
