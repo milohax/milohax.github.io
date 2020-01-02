@@ -59,7 +59,7 @@ $(window).load(function(){
     function show(i) {
       if (i == text.length) {
           setTimeout(function(){
-            window.location.href = "https://sinewalker.keybase.pub/net/milohax/";
+            window.location.href = window.location.href.replace("milohax.net/","sinewalker.keybase.pub/net/milohax/");
           }, 3333);
       return;
     }
