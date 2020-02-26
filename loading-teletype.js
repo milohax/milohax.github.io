@@ -60,7 +60,7 @@ $(window).load(function(){
       if (i == text.length) {
           setTimeout(function(){
             window.location.href = window.location.href.replace("milohax.net/","sinewalker.keybase.pub/net/milohax/");
-          }, 3333);
+          }, 33);
       return;
     }
 
